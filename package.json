@@ -1,0 +1,21 @@
+{
+  "name": "eCoin",
+  "version": "1.0.0",
+  "description": "eCoin.io Token",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vilik Sobieski",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "chai": "^4.3.4",
+    "solc": "^0.8.9-fixed",
+    "truffle": "^5.4.6"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.11"
+  }
+}
